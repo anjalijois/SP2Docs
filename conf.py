@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'SP2 Sphinx project'
+project = 'SP2Docs Sphinx project'
 copyright = '2020, Anjali'
 author = 'Anjali'
 
