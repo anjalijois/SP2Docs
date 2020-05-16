@@ -14,4 +14,5 @@ Welcome to SP2 Sphinx project's documentation!
 
    explanation.rst
    implementation.rst
+   spdoc.rst
 
